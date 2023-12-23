@@ -1,0 +1,22 @@
+{
+  "name": "@kardinal/whiterabbit",
+  "version": "1.0.0",
+  "description": "translator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hakan-unal/white-rabbit.git"
+  },
+  "keywords": [
+    "translator"
+  ],
+  "author": "kardinal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hakan-unal/white-rabbit/issues"
+  },
+  "homepage": "https://github.com/Hakan-unal/white-rabbit#readme"
+}
